@@ -1,4 +1,4 @@
-## Olá Sou Jackson Bruno, Desenvolvedor de software  
+## Olá Sou Jackson Bruno, Analista de Sistemas 
 
 <div align="center">
   <a href="https://github.com/jacksonbruno09">
